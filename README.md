@@ -1,5 +1,7 @@
 请优先使用另一个项目 gpu-pref-manager！！！
-
+请优先使用另一个项目 gpu-pref-manager！！！
+请优先使用另一个项目 gpu-pref-manager！！！
+重要事情说三遍
 # set-app-gpu-gui
 
 给 Linux 混合显卡笔记本用的**按应用分配显卡**工具 —— 图形界面 + 命令行。
