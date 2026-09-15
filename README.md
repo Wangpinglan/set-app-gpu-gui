@@ -1,4 +1,4 @@
-#请优先使用另一个项目 gpu-pref-manager！！！
+请优先使用另一个项目 gpu-pref-manager！！！
 
 # set-app-gpu-gui
 
